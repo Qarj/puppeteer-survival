@@ -1,0 +1,2 @@
+# puppeteer-survival
+Puppeteer snippets
